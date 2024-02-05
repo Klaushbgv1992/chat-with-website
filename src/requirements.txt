@@ -2,6 +2,7 @@
 backoff==2.2.1
 backports.weakref==1.0.post1
 bcrypt==4.1.2
+beautifulsoup4==4.10.0
 bidict==0.22.1
 black==24.1.1
 blinker==1.7.0
