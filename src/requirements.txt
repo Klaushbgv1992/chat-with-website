@@ -17,7 +17,7 @@ cssselect==1.1.0
 Cython==3.0.8
 daal4py==2023.1.1
 dataclasses-json==0.6.2
-datashape==0.5.4
+datashape==0.5.2
 Deprecated==1.2.14
 distlib==0.3.7
 distro==1.9.0
